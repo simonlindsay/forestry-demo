@@ -36,3 +36,5 @@ fields:
   type: text
   hidden: true
   default: person
+data_files:
+- _data/information.yml
