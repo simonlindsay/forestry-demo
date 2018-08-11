@@ -54,3 +54,9 @@ fields:
     label: name
     name: name
   description: who worked on it
+- type: list
+  default: []
+- type: include
+  name: worker
+  label: worker
+  template: person
