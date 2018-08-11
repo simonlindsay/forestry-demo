@@ -42,3 +42,5 @@ fields:
   config:
     min: '1'
     max: '2'
+  template_types:
+  - team-member
