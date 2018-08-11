@@ -9,7 +9,7 @@ slug: ''
 person: 
 team_members:
 - member: _people/charlize-babatunde.md
-- member: _people/charlize-babatunde.md
+- member: _people/grady-nerio.md
 
 ---
 Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
