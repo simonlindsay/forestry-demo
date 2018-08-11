@@ -23,6 +23,7 @@ sections:
   create: all
   match: "*"
   templates:
+  - team-member
   - person
 - type: directory
   path: _projects
