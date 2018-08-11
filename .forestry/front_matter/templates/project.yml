@@ -27,3 +27,11 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: select
+  name: person
+  config:
+    source:
+      type: pages
+      section: people
+  label: Person
+  description: Who worked on it
