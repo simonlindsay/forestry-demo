@@ -44,3 +44,6 @@ fields:
     max: '2'
   template_types:
   - team-member
+- type: list
+  name: members
+  label: members
