@@ -49,3 +49,4 @@ fields:
         type: pages
         section: people
     label: member
+  description: who worked on it
