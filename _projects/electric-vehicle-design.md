@@ -8,6 +8,7 @@ sub_heading: 'Human centered design in the electric vehicle era '
 slug: ''
 person: 
 team_members:
+- {}
 - member: _people/charlize-babatunde.md
 - member: _people/grady-nerio.md
 
