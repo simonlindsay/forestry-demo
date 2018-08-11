@@ -24,8 +24,7 @@ sections:
   match: "*"
   templates:
   - person
-- type: directory
-  path: ''
+- type: jekyll-posts
   label: Team Members
   create: all
   match: "**/*"
