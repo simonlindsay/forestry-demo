@@ -20,7 +20,7 @@ sections:
 - type: directory
   path: _people
   label: People
-  create: none
+  create: all
   match: "*"
   templates:
   - person
