@@ -12,6 +12,10 @@ slug: ''
 team_members:
 - template: team-member
   name: ljhjn,n
+members:
+- _people/martin-marino.md
+- _people/grady-nerio.md
+- _people/murphy-tiernan.md
 
 ---
 ## Overview
