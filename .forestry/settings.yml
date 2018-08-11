@@ -24,12 +24,6 @@ sections:
   match: "*"
   templates:
   - person
-- type: jekyll-posts
-  label: Team Members
-  create: all
-  match: "**/*"
-  templates:
-  - team-member
 - type: directory
   path: _projects
   label: Projects
