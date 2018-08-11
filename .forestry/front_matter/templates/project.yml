@@ -47,3 +47,8 @@ fields:
 - type: list
   name: members
   label: members
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: people
