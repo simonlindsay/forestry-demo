@@ -6,7 +6,10 @@ date: 2018-02-25 19:07:50 +0000
 banner_image: "/uploads/2018/02/17/college-building.jpg"
 sub_heading: 'Human centered design in the electric vehicle era '
 slug: ''
-person: _people/grady-nerio.md
+person: 
+team_members:
+- member: _people/charlize-babatunde.md
+- member: _people/charlize-babatunde.md
 
 ---
 Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Nulla vitae elit libero, a pharetra augue. Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
