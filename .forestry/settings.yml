@@ -20,10 +20,10 @@ sections:
 - type: directory
   path: _people
   label: People
-  create: all
+  create: none
   match: "*"
   templates:
-  - posts
+  - person
 - type: directory
   path: _projects
   label: Projects
